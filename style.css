@@ -1,0 +1,15 @@
+.categories img{
+    width: 100px;
+}
+.btn-bg-color{
+    color: whitesmoke;
+     background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
+     font-weight: 700;
+}
+.btn-carousel-bg{
+    color: wheat;
+    font-weight: 700;
+    background: linear-gradient(red
+     0%, tomato 100%);
+
+}
